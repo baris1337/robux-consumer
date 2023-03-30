@@ -1,0 +1,13 @@
+C:\Users\Akgun\source\repos\barishitter\barishitter\obj\Debug\barishitter.csproj.AssemblyReference.cache
+C:\Users\Akgun\source\repos\barishitter\barishitter\obj\Debug\barishitter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akgun\source\repos\barishitter\barishitter\obj\Debug\barishitter.csproj.CoreCompileInputs.cache
+C:\Users\Akgun\source\repos\barishitter\barishitter\obj\Debug\barishitter.exe
+C:\Users\Akgun\source\repos\barishitter\barishitter\obj\Debug\barishitter.pdb
+C:\Users\Akgun\source\repos\barishitter\barishitter\bin\Debug\barishitter.exe.config
+C:\Users\Akgun\source\repos\barishitter\barishitter\bin\Debug\barishitter.exe
+C:\Users\Akgun\source\repos\barishitter\barishitter\bin\Debug\barishitter.pdb
+C:\Users\Akgun\source\repos\barishitter\barishitter\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Akgun\source\repos\barishitter\barishitter\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Akgun\source\repos\barishitter\barishitter\bin\Debug\WebDriver.dll
+C:\Users\Akgun\source\repos\barishitter\barishitter\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Akgun\source\repos\barishitter\barishitter\obj\Debug\barishitter.csproj.CopyComplete
